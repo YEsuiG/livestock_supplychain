@@ -210,7 +210,7 @@ contract MyContract is Ownable, AccessControl {
         }
         return pcr + (totalLivestock / livestockPerHerder);
     }
-    // Implement the getGrade function
+    // Implement a the getGrade function
     function getGrade(uint256 gradePoints) internal pure returns (uint256) {
         if (gradePoints <= 2) return 1;
         if (gradePoints <= 4) return 2;
