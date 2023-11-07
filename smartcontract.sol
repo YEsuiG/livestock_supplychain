@@ -7,7 +7,7 @@ import "@openzeppelin/contracts/access/AccessControl.sol";
 
 contract MyContract is Ownable, AccessControl {
 
-    // Define roles with the AccessControl framework
+    // Define the roles with the AccessControl framework
     bytes32 public constant HERDER_ROLE = keccak256("HERDER");
     bytes32 public constant SLAUGHTERHOUSE_ROLE = keccak256("SLAUGHTERHOUSE");
     bytes32 public constant TRANSPORTER_ROLE = keccak256("TRANSPORTER");
