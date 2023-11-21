@@ -13,3 +13,5 @@ Workflow Process:
 6. Confirm Delivery: Upon arrival at the delivery destination, the buyer, whether a slaughterhouse, market, or individual, will input each tag number into the system and generate a QR code, which will be affixed to each processed product from its original source.
 
 7. Subsequent Stages: In the subsequent stages of the supply chain, the order, delivery, and confirmation processes will mirror the steps outlined above.
+
+   [Workflow(Dapp_workflow (3) (1).png)]
